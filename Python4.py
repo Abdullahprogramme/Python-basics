@@ -2,9 +2,9 @@ Number1=int(input(" Input number 1: "))
 Number2=int(input(" Input number 2: "))
 print(int(Number1 + Number2))
 print(" Enter any text here ")
-Txt1=str(input())
+Name=str(input())
 print(" Enter any text here ")
-Txt2=str(input())
-Txt=Txt1 +      Txt2
+SurName=str(input())
+Txt= Name + SurName
 print(Txt)
 print(Txt + " and my age is " + str(Number1 + Number2))
