@@ -12,7 +12,7 @@ x=3
 x="sally"
 print(x)
 x=str(3)
-y=int(3)
+y=int(x)
 z=float(3)
 fruits=["Apple","Banana","Citrus"]
 A,B,C=fruits
