@@ -1,6 +1,3 @@
-from email import charset
-
-
 Cars=["FORD" ,"TOYOTA","VOLVO"]
 x=Cars[0]
 print(x)
